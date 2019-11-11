@@ -1,5 +1,9 @@
 # vue-meituan-2.0
 vw+sass+vue+vuex+vue-router+vue-axios+vant+node+express+Mongdb
+
+## 项目还在完善中...
+
+
 # meituan - 踩坑日记
 
 ## 2019-10-31 解决vw布局
