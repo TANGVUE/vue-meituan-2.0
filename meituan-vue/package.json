@@ -12,7 +12,7 @@
     "babel-plugin-import": "^1.12.2",
     "core-js": "^3.3.2",
     "cssnano": "^4.1.10",
-    "node-sass": "^4.13.0",
+    "node-sass": "^4.13.1",
     "postcss-aspect-ratio-mini": "^1.0.1",
     "postcss-cssnext": "^3.1.0",
     "postcss-px-to-viewport": "^1.1.1",
